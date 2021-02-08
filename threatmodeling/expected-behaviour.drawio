@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T16:19:39.842Z" agent="5.0 (Windows)" version="14.3.0" etag="Ydmh_a97TB8tyzVz6PIm" type="github"><diagram id="C_pwsHCdPz9ckj-0qzIV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-08T16:31:37.765Z" agent="5.0 (Windows)" etag="GF9MbwjKYKUl6mlDX-0s" version="14.3.0" type="github">
+  <diagram id="C_pwsHCdPz9ckj-0qzIV" name="Page-1">
+    <mxGraphModel dx="868" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-1" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;swimlaneFillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="450" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-1">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-3" value="&amp;nbsp;&lt;b&gt;Expected Behaviour&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;align=left;strokeColor=#d6b656;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-2">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-1">
+          <mxGeometry y="40" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-5" value="&lt;div align=&quot;left&quot;&gt;The user enters his first name in the first field&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-4">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-1">
+          <mxGeometry y="80" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-7" value="The user enters his last name in the second field" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-6">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-1">
+          <mxGeometry y="120" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-9" value="The user enters his email address in the third field" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-8">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-1">
+          <mxGeometry y="160" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-11" value="The user enters his phone number in the fourth field" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-10">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-1">
+          <mxGeometry y="200" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-13" value="The user enters Captcha characters in the last field" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-12">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-1">
+          <mxGeometry y="240" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-15" value="The user clicks on Sign Up button" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-14">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-1">
+          <mxGeometry y="280" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oQ4RWJ2qbNRnV9nONUOF-19" value="The user clicks on the link, sent from the back-end to verify his email" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="oQ4RWJ2qbNRnV9nONUOF-18">
+          <mxGeometry width="450" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
